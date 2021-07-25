@@ -1,0 +1,60 @@
+body{
+	background-color: lightgray;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+table tr th{
+	border: 1px solid black;
+	padding: 12px 24px;
+}
+td{
+	border: 1px solid black;
+	height: 50px;
+}
+
+img{
+	width: 200px;	
+}
+
+button{
+ background-color: blueviolet;
+ color: whitesmoke;
+}
+.button{
+	color: white;
+}
+.th{
+	width: 400px;
+}
+aside{
+	width: 100px;
+	text-align:;
+	padding: 12px;
+	background-color: gray;
+	float: right;
+	margin: 12px;
+}
+.blockquote{
+	text-align: left;
+	padding: 12px;
+}
+.aside-style{
+	display: inline-block;
+	padding: 10px 20px;
+	margin: 20px;
+}
+.odd{
+	background-color: lightskyblue;
+	color: brown;
+}
+.headings{
+	height: 40px;
+	background-color: cornsilk;
+}
+.even{
+	background-color: blanchedalmond;
+}
